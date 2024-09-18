@@ -1,0 +1,24 @@
+.campo-texto{
+  display: flex;
+  flex-direction: column;
+  margin: 25px 0;
+}
+.campo-texto label{
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 19px;
+  margin-bottom: 10px;
+}
+.campo-texto input{
+  width: 100%;
+  border: none;
+  box-shadow: 0 0 5px 2px #00000047;
+  border-radius: 10px;
+  min-height: 40px;
+  padding: 0 15px;
+  box-sizing: border-box;
+  transition: ease .5s all;
+}
+.campo-texto input:focus {
+  transform: scale(1.1);
+}

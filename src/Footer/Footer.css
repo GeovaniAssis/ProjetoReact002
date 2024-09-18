@@ -1,0 +1,27 @@
+.faixaAzul{
+  background-color: var(--cor-roxo);
+}
+.faixaAzul img{
+  margin: 20px;
+}
+.faixaAzul h2{
+  font-family: none;
+  color: var(--cor-branco);
+  font-size: 40px;
+  text-align: center;
+  margin: 20px;
+}
+
+
+.faixaVerde{
+  background-color: var(--cor-verde);
+}
+.faixaVerde p{
+  margin: 0;
+  text-align: center;
+  padding: 10px 0px;
+  font-family: Courier New;
+  color: var(--cor-preto);
+  font-weight: 600;
+  font-size: 15px;
+}

@@ -1,0 +1,20 @@
+.campo-botao{
+  margin: 25px 0;
+}
+.campo-botao button{
+  background-color: var(--cor-roxo);
+  height: 40px;
+  padding: 0 30px;
+  min-width: 150px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 0 5px 2px #00000047;
+  color: var(--cor-branco);
+  font-weight: 600;
+  font-size: 17px;
+  cursor: pointer;
+  transition: ease .5s all;
+}
+.campo-botao button:hover{
+  transform: scale(1.1);
+}
