@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react/pessoas-e-times/static/css/main.a630929d.css",
+    "main.js": "/react/pessoas-e-times/static/js/main.c580176f.js",
+    "index.html": "/react/pessoas-e-times/index.html",
+    "main.a630929d.css.map": "/react/pessoas-e-times/static/css/main.a630929d.css.map",
+    "main.c580176f.js.map": "/react/pessoas-e-times/static/js/main.c580176f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a630929d.css",
+    "static/js/main.c580176f.js"
+  ]
+}
